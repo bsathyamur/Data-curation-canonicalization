@@ -2,6 +2,7 @@
 	<complaint id="759222" submissionType="Referral">
 		<event date="2017-03-12" type="received"></event>
 		<event date="2017-03-17" type="sentToCompany"></event>
+
 		<product>
 			<productType>Mortgage</productType>
 			<subproduct>Other mortgage</subproduct>
